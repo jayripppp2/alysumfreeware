@@ -1,0 +1,54 @@
+OFFSETS
+
+"KX"
+constexpr std::uint32_t ChildSize = 0x8;
+    constexpr std::uint32_t Name = 0x48;
+    constexpr std::uint32_t DisplayName = 0xD8;
+    constexpr std::uint32_t Children = 0x50;
+    constexpr std::uint32_t Parent = 0x60;
+    constexpr std::uint32_t LocalPlayer = 0x100;
+    constexpr std::uint32_t ModelInstance = 0x298;
+    constexpr std::uint32_t Primitive = 0x150;
+    constexpr std::uint32_t Position = 0x140;
+    constexpr std::uint32_t Dimensions = 0x720;
+    constexpr std::uint32_t ViewMatrix = 0x4B0;
+    constexpr std::uint32_t ClassDescriptor = 0x18;
+    constexpr std::uint32_t Health = 0x184;
+    constexpr std::uint32_t MaxHealth = 0x1A4;
+    constexpr std::uint32_t WalkSpeedA = 0x1C0;
+    constexpr std::uint32_t WalkSpeedB = 0x390;
+    constexpr std::uint32_t Team = 0x1D0;
+    constexpr std::uint32_t GameId = 0x160;
+    constexpr std::uint32_t PlaceId = 0x168;
+    constexpr std::uint32_t Velocity = 0x14C;
+    constexpr std::uint32_t BasePartSize = 0x27C;
+    constexpr std::uint32_t CameraPosition = 0xF4;
+    constexpr std::uint32_t CamPosFromEngine = 0xA0;
+    constexpr std::uint32_t Camera = 0x418;
+    constexpr std::uint32_t CameraRotation = 0xD0;
+    constexpr std::uint32_t CameraFov = 0x138;
+    constexpr std::uint32_t Armor = 0xC0;
+    constexpr std::uint32_t JumpPower = 0x1A0;
+    constexpr std::uint32_t HipHeight = 0x190;
+    constexpr std::uint32_t Ping = 0xB8;
+    constexpr std::uint32_t DataModel = 0x198;
+    constexpr std::uint32_t HumanoidInstance = 0x60;
+    constexpr std::uint32_t HumanoidRigType = 0x1B8;
+    constexpr std::uint32_t Color3 = 0x180;
+    constexpr std::uint32_t CFrame = 0x11C;
+    constexpr std::uint32_t MeshId = 0x250;
+    constexpr std::uint32_t MoveDirection = 0x148;
+    constexpr std::uint32_t CanCollide = 0x2DB;
+    constexpr std::uint32_t Transparency = 0xD8;
+    constexpr std::uint32_t HighlightValue = 0xC0;
+    constexpr std::uint32_t AbsolutePosition = 0xF8;
+    constexpr std::uint32_t TextLabelText = 0xAB0;
+    constexpr std::uint32_t ViewportSize = 0x2C8;
+    constexpr std::uint32_t Inset = 0xF4;
+    constexpr std::uint32_t RenderToDataModel = 0x118;
+    constexpr std::uint32_t DataModelPtrToRealDataModel = 0x198;
+    constexpr std::uint32_t RenderToEngine = 0x10;
+
+" 04/08/2024"
+
+jayrippppp2
